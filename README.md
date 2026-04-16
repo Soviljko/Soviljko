@@ -20,19 +20,19 @@
 
 <br>
 
-## 🧑‍💻 &nbsp;O meni
+## 🧑‍💻 &nbsp;About Me
 
 ```yaml
-ime: Ognjen Sovilj
-korisnicko_ime: Soviljko
-fokus: Web Development
-trenutno_ucim: [ HTML, CSS, JavaScript ]
-cilj: Izgraditi solidnu karijeru u web razvoju
+name: Ognjen Sovilj
+username: Soviljko
+focus: Web Development
+currently_learning: [ HTML, CSS, JavaScript ]
+goal: Build a solid career in web development
 ```
 
-Zdravo! Ja sam **Ognjen** — web developer početnik koji gradi temelje u frontend razvoju. Trenutno sam fokusiran na savladavanje osnova **HTML-a**, **CSS-a** i **JavaScript-a**, sa ciljem da rastem u kompletnog web developera.
+Hey there! I'm **Ognjen** — an aspiring web developer building strong foundations in frontend development. I'm currently focused on mastering **HTML**, **CSS**, and **JavaScript**, with the goal of growing into a well-rounded web developer.
 
-Verujem u učenje kroz praksu, rad na realnim projektima i konstantno usavršavanje.
+I believe in learning by doing, working on real-world projects, and constantly improving my craft.
 
 <br>
 
@@ -50,19 +50,19 @@ Verujem u učenje kroz praksu, rad na realnim projektima i konstantno usavršava
 <tr>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/><br>
-<sub><b>Osnove ✅</b></sub>
+<sub><b>Basics ✅</b></sub>
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/><br>
-<sub><b>Osnove ✅</b></sub>
+<sub><b>Basics ✅</b></sub>
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/><br>
-<sub><b>Učim 📖</b></sub>
+<sub><b>Learning 📖</b></sub>
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/><br>
-<sub><b>Osnove ✅</b></sub>
+<sub><b>Basics ✅</b></sub>
 </td>
 </tr>
 </table>
@@ -72,17 +72,17 @@ Verujem u učenje kroz praksu, rad na realnim projektima i konstantno usavršava
 ## 📍 &nbsp;Roadmap
 
 ```
-  Trenutno                    Sledeći koraci                    Cilj
-  ─────────                   ──────────────                    ────
+  Current                     Next Steps                        Goal
+  ───────                     ──────────                        ────
   ✅ HTML5                    ⬜ React                          ⬜ Full-Stack
-  ✅ CSS3                     ⬜ Tailwind CSS                   ⬜ Portfolio projekti
-  🔄 JavaScript               ⬜ Node.js                        ⬜ Freelance / Posao
+  ✅ CSS3                     ⬜ Tailwind CSS                   ⬜ Portfolio Projects
+  🔄 JavaScript               ⬜ Node.js                        ⬜ Freelance / Job
   ✅ Git & GitHub              ⬜ TypeScript
 ```
 
 <br>
 
-## 📊 &nbsp;GitHub Statistike
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -102,21 +102,21 @@ Verujem u učenje kroz praksu, rad na realnim projektima i konstantno usavršava
 
 <br>
 
-## 🤝 &nbsp;Kontakt
+## 🤝 &nbsp;Get in Touch
 
 <div align="center">
 
-Otvoren sam za saradnju, savete i nove prilike u web razvoju.
+I'm open to collaboration, advice, and new opportunities in web development.
 
 <br><br>
 
 <a href="mailto:sovilj.ognjen12@gmail.com">
-<img src="https://img.shields.io/badge/Pošalji_email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/Send_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br><br>
 
-<sub>⭐ Ako ti se sviđa neki od mojih projekata, ostavi zvezdu — motiviše me da nastavim! ⭐</sub>
+<sub>⭐ If you like any of my projects, leave a star — it keeps me motivated! ⭐</sub>
 
 </div>
 
