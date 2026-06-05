@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ognjen%20Sovilj&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Web%20Developer%20in%20the%20Making&descSize=18&descColor=7d8590&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+the+web%2C+one+line+at+a+time.;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ognjen%20Sovilj&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Developer%20in%20the%20Making&descSize=18&descColor=7d8590&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -26,13 +22,13 @@
 name: Ognjen Sovilj
 username: Soviljko
 focus: Web Development
-currently_learning: [ HTML, CSS, JavaScript ]
-goal: Build a solid career in web development
+currently_learning: [ HTML, CSS, JavaScript, React ]
+goal: Build a solid career in software development
 ```
 
-Hey there! I'm **Ognjen** — an aspiring web developer building strong foundations in frontend development. I'm currently focused on mastering **HTML**, **CSS**, and **JavaScript**, with the goal of growing into a well-rounded web developer.
+Hey there! I'm **Ognjen** — an aspiring software developer building strong foundations in software development. I'm currently focused on mastering **HTML**, **CSS**, and **JavaScript**, with the goal of growing into a well-rounded web developer. Alongside that, I've worked on university projects in **C# / .NET** and **Python**, building backend services and machine learning systems.
 
-I believe in learning by doing, working on real-world projects, and constantly improving my craft.
+I believe in learning by doing, working on real-world projects, and constantly improving my skills.
 
 <br>
 
@@ -40,7 +36,7 @@ I believe in learning by doing, working on real-world projects, and constantly i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,python,git,github,vscode&theme=dark" alt="Tech Stack" />
 
 </div>
 
@@ -58,7 +54,25 @@ I believe in learning by doing, working on real-world projects, and constantly i
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/><br>
+<sub><b>Basics ✅</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><br>
 <sub><b>Learning 📖</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/><br>
+<sub><b>Projects 🛠️</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/><br>
+<sub><b>Projects 🛠️</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/><br>
+<sub><b>Projects 🛠️</b></sub>
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/><br>
@@ -66,19 +80,6 @@ I believe in learning by doing, working on real-world projects, and constantly i
 </td>
 </tr>
 </table>
-
-<br>
-
-## 📍 &nbsp;Roadmap
-
-```
-  Current                     Next Steps                        Goal
-  ───────                     ──────────                        ────
-  ✅ HTML5                    ⬜ React                          ⬜ Full-Stack
-  ✅ CSS3                     ⬜ Tailwind CSS                   ⬜ Portfolio Projects
-  🔄 JavaScript               ⬜ Node.js                        ⬜ Freelance / Job
-  ✅ Git & GitHub              ⬜ TypeScript
-```
 
 <br>
 
@@ -106,12 +107,19 @@ I believe in learning by doing, working on real-world projects, and constantly i
 
 <div align="center">
 
-I'm open to collaboration, advice, and new opportunities in web development.
+### Let's build something together
 
-<br><br>
+Whether it's collaboration, feedback, or a new opportunity —
+I'm always happy to connect. My inbox is open.
+
+<br>
 
 <a href="mailto:sovilj.ognjen12@gmail.com">
-<img src="https://img.shields.io/badge/Send_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Soviljko">
+<img src="https://img.shields.io/badge/GitHub-e6edf3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -123,8 +131,3 @@ I'm open to collaboration, advice, and new opportunities in web development.
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
-
-<!---
-Soviljko/Soviljko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
